@@ -1,3 +1,3 @@
-# Event-Based-Pose-Estimation-for-Outdoor-Augmented-Reality
+# Transformer-based Event Camera Relative Pose Estimation in Outdoor Scenes
 Master's Thesis
 Repo Comming soon...
